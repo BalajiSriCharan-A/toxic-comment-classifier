@@ -33,11 +33,22 @@ The model has been pre-trained and integrated into a simple web interface using 
    ```bash
    git clone https://github.com/your-username/toxic-comment-classifier.git
    cd toxic-comment-classifier
-## Run the app
+2. Run the app
    streamlit run app.py
    -A web interface will open in your browser. Enter a comment and click the "Classify" button to get the result!
    
-✨ Future Improvements
+3. Future Improvements
    -Support for multi-label classification (e.g., insult, threat, etc.)
    -Better handling of slang or abbreviations
    -Deploy the app online (e.g., on Heroku or Streamlit Cloud)
+   
+4.📬 Contact
+   Created by Amalapuram Balaji Sri Charan
+   Feel free to connect via email: balajisricharan19@gmail.com
+
+✅ Final Step:
+5. Scroll down and click **“Commit new file”**
+
+Boom! 💥 Now your project will look amazing on GitHub.
+
+Let me know once you've done it — or if you’d like me to help write the README for your second project too!
